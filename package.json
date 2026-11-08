@@ -1,0 +1,10 @@
+{
+  "name": "opus-market-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static educational market dashboard with a separate yfinance API",
+  "scripts": {
+    "dev": "python3 scripts/preview.py",
+    "test": "node tests/analytics.mjs"
+  }
+}
